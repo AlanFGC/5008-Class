@@ -1,0 +1,15 @@
+eat sleep
+eat exercise
+eat read
+eat drive
+exercise walk
+walk nap
+drive study
+study nap
+nap work
+read work
+read chat
+chat sleep
+work medidate
+work sleep
+medidate sleep

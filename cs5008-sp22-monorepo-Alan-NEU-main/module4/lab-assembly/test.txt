@@ -1,0 +1,7 @@
+# assembly.s program
+movQ a, %rax
+movQ b, %rbx
+addQ %rbx, %rax
+ImulQ %rbx
+movQ %rax, c
+// lowercase on purpose
